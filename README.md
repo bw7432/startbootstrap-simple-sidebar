@@ -2,6 +2,9 @@
 
 [Simple Sidebar](http://startbootstrap.com/template-overviews/simple-sidebar/) is an off canvas sidebar navigation template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
+## Forked changes
+This fork fixes the css issue - the menu is now visible on screens > 768px and collapsed on screens < 768px. Toggling works as expected. For both small screens and large screens toggling does the opposite - on small screens, it shows the menu and on large screens it hides the menu. Enjoy!
+
 ## Preview
 
 [![Simple Sidebar Preview](https://startbootstrap.com/assets/img/templates/simple-sidebar.jpg)](https://blackrockdigital.github.io/startbootstrap-simple-sidebar/)
